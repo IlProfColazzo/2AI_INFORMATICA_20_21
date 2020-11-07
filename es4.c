@@ -1,3 +1,6 @@
+/*Scrivere un programma contenente tre stampe differenti 
+(tre righe contenenti l’istruzione printf) le quali visualizzano 
+rispettivamente le parole Io sono leggenda.*/
 #include <stdio.h>
 #include <stdlib.h>
 
