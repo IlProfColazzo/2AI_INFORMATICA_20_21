@@ -1,3 +1,4 @@
+// Prof. Colazzo Andrea
 /*Scrivere un programma contenente tre stampe differenti 
 (tre righe contenenti l’istruzione printf) le quali visualizzano 
 rispettivamente le parole Io sono leggenda.*/

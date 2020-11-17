@@ -1,9 +1,10 @@
-#include <stdio.h>
-#include <stdlib.h>
 //Alberto Lombardo 2 AI
 /*Una sala cinematografica ha 550 posti dei quali 250 in galleria e il resto in platea.
  Sapendo che il biglietto in platea costa 8 € e in galleria 2 € in più, calcolare l’incasso in una sera di tutto esaurito.
 */
+
+#include <stdio.h>
+#include <stdlib.h>
 int main()
 {
     int salaposti=550;

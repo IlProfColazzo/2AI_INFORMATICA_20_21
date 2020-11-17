@@ -1,8 +1,8 @@
-#include <stdio.h>
-#include <stdlib.h>
 //Alberto Lombardo 2 AI
 /*La paga di un operaio è di 15,00 € all’ora. Sulla stessa paga viene effettuata una trattenuta pari al 27%.
  Date il numero delle ore lavorative svolte, calcolare la paga netta.*/
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {

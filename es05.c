@@ -1,3 +1,4 @@
+// Prof. Colazzo Andrea
 /*Come varia l’output dell’esercizio 4. se nelle righe di codice contenenti la printf 
 si elimina la sequenza di caratteri \n?*/
 

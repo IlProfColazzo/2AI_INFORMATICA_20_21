@@ -1,3 +1,4 @@
+// Prof. Colazzo Andrea
 /*Scrivere un programma che calcoli l’area
 di un rettangolo conoscendo i lati A e B.*/
 #include <stdio.h>

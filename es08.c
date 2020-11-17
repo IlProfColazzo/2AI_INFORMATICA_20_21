@@ -1,10 +1,11 @@
-#include <stdio.h>
-#include <stdlib.h>
 //Alberto Lombardo 2 AI
 /*In un parco divertimenti i biglietti costano 25 € per ogni bambino con età inferiore a 10 anni,
   e 10 € in più per ogni altra persona. Sapendo che i bambini che sono entrati al parco sotto i dieci anni sono 2000,
   calcolare il guadagno del parco divertimenti sapendo che le altre persone sono esattamente il doppio dei bambini.
 */
+
+#include <stdio.h>
+#include <stdlib.h>
 int main()
 {
 

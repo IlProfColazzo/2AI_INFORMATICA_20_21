@@ -1,3 +1,4 @@
+// Prof. Colazzo Andrea
 /*Modifica il tuo primo programma aggiungendo:
 -	un blocco di commento prima di #include <stdio.h>: nella prima riga deve esserci 
 	scritto il tuo nome, nella seconda riga il tuo cognome e nella terza la tua classe;
