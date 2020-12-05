@@ -1,4 +1,4 @@
-//Molle Samuele 2 AI
+//Samuele Molle 2 AI
 /*Dati i valori di due variabili eseguire lo scambio dei valori senza utilizzare variabili 
 temporanei e utilizzando solo le operazioni di somma e sottrazione (Hint: google ti spiegherà come fare).*/
 #include <stdio.h>
