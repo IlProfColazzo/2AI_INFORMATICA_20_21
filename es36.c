@@ -13,7 +13,7 @@ int main()
     int numeratore, denominatore; float quoziente;
     printf("Introduci il numeratore e il denominatore: ");
     scanf("%d%d",&numeratore,&denominatore);
-    if (numeratore != 0){  //istruzioni del ramo vero
+    if (denominatore != 0){  //istruzioni del ramo vero
         quoziente = (float) numeratore / denominatore;
         printf("Il valore del quoziente e': %.2f",quoziente);
     }
