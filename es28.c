@@ -1,4 +1,7 @@
 // Prof. Colazzo Andrea
+/*Effettuiamo la divisione tra numeri interi salvando il risultato prima 
+in una variabile intera e successivamente in una variabile reale.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
